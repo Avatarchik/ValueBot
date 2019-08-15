@@ -1,8 +1,8 @@
 [Settings]
-login_pos = ochko
-pass_pos = hrena.ua
-login_bet = JuliaDauris
-pass_bet = Nbuh73799899
+login_pos = 
+pass_pos = 
+login_bet = 
+pass_bet = 
 bet_mirror = 838365.com/en/
 fix_bet = 10
 max_one_game_count = 8
